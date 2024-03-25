@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/771345726.svg)](https://zenodo.org/doi/10.5281/zenodo.10867105)
+
 # Multiple ROI Analysis with DeepLabCut CSV Files
 
 ## Overview
