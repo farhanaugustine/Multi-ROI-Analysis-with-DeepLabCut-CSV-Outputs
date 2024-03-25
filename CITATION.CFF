@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Augustine"
+  given-names: "Farhan"
+  orcid: "https://orcid.org/0000-0002-8348-6039"
+title: "Kinetic Analysis System for DeepLabCut (KAS-DLC)"
+version: 0.1.0
+doi: 10.5281/zenodo.10867106
+date-released: 2024-03-24
+url: "https://github.com/farhanaugustine/Multi-ROI-Analysis-with-DeepLabCut-CSV-Outputs"
